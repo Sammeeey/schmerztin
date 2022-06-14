@@ -1,3 +1,7 @@
+# Schmerztin
+- Crawler that checks for available appointments and sends Telegram notification in case of earlier available appointment
+    - meant to run periodically (maybe using Heroku(?))
+
 ## resources
 ### Playwright approach
 - [use telegram-send library](https://medium.com/@robertbracco1/how-to-write-a-telegram-bot-to-send-messages-with-python-bcdf45d0a580) to send notifications in case of earlier appointment
